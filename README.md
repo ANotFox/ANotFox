@@ -46,7 +46,7 @@ Here are some ideas to get you started:
           <td>
             <div style="text-align: center;">
               <img alt="PyTorch" height="32px" style="" src="https://img.shields.io/badge/pytorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white"  title="Love the documentation, going through it steadily">
-              <img alt="TensorFlow" height="32px" style="" src="https://img.shields.io/badge/tensorflow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" title="Familiar with it but not as much as I should">
+<!--              <img alt="TensorFlow" height="32px" style="" src="https://img.shields.io/badge/tensorflow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" title="Familiar with it but not as much as I should"> -->
               <img alt="Streamlit" height="32px" style=""src="https://img.shields.io/badge/streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white" title="Frontend on a discount">
               <br>
               <img alt="Pandas" height="32px" style="" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" title="I will learn Pola.rs one day, trust me">
