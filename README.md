@@ -39,7 +39,7 @@ Here are some ideas to get you started:
               <img alt="Java" height="32px" style="" src="https://img.shields.io/badge/java-b22222.svg?style=for-the-badge&logo=openjdk&logoColor=white">
 <!--               <img alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" /> -->
               <br>
-              <img alt="C" height="32px" style="" src="https://img.shields.io/badge/c-696969.svg?style=for-the-badge&logo=c&logoColor=white">
+<!--               <img alt="C" height="32px" style="" src="https://img.shields.io/badge/c-696969.svg?style=for-the-badge&logo=c&logoColor=white"> -->
               <img alt="MySQL" height="32px" style="" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
             </div>
           </td>
@@ -96,7 +96,7 @@ Here are some ideas to get you started:
                   <div style="text-align: left;">
                     <img height="26px"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
                     <img height="32px" src="https://img.shields.io/badge/VSCode-black?style=for-the-badge&logo=vscode&logoColor=white" alt="VS Code"> &nbsp;
-                    <img height="32px" src="https://img.shields.io/badge/Gcloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCloud">
+<!--                     <img height="32px" src="https://img.shields.io/badge/Gcloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCloud"> -->
                     <br>
                     <img height="32px" src="https://img.shields.io/badge/overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white" alt="Overleaf">
                     <img height="32px" src="https://img.shields.io/badge/github-121D33?style=for-the-badge&logo=github&logoColor=white" alt="Github">
